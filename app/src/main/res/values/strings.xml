@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercico2</string>
+    <string name="Send">Send</string>
+    <string name="Send_Mail">Send Mail</string>
+    <string name="Social_Network">Social Network</string>
+    <string name="Name">Name</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Twitter">Twitter</string>
+    <string name="GPlus">G+</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+</resources>

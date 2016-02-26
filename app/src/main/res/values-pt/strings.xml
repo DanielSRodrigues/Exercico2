@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Send">Enviar</string>
+    <string name="Send_Mail">Enviar e-mail</string>
+    <string name="Social_Network">Redes Sociais</string>
+    <string name="Name">Nome</string>
+    <string name="Facebook">FacebookBR</string>
+    <string name="Twitter">TwitterBR</string>
+    <string name="GPlus">G+BR</string>
+    <string name="Yes">Sim</string>
+    <string name="No">Não</string>
+</resources>
